@@ -31,6 +31,7 @@
 
 <h4> luego hacemos un pull de nuestra imagen con el comando <i> docker push {usuario_dockerhub}/{nombre directorio} </i> </h4>
 
+![image](https://github.com/user-attachments/assets/ebf3c7d8-1757-4573-88ab-d30984e6121a)
 
 
 
